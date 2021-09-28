@@ -86,6 +86,7 @@
       "field": "status",
       "filterOptions": {
         "enabled": true,
+        "multiple": true,
         "placeholder": " ",
         "filterDropdownItems": [
           {
