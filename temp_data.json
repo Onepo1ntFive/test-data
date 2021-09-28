@@ -324,5 +324,6 @@
       "expertiseFinishDate": "31.12.2021"
     }
   ],
+  "total_records": 18,
   "get_data_route": "/assets/data/temp_data.json"
 }
