@@ -86,7 +86,7 @@
       "field": "status",
       "filterOptions": {
         "enabled": true,
-        "multiple": true,
+        "multiple": false,
         "placeholder": " ",
         "filterDropdownItems": [
           "Все",
