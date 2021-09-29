@@ -46,11 +46,11 @@
       "field": "nkoTitle",
       "filterOptions": {
         "enabled": true,
-        "customFilter": true,
         "placeholder": " ",
         "filterDropdownItems": [
-          { "value": 0, "text": "Lorem, ipsum dolor." },
-          { "value": 1, "text": "Totam, quia illo." }
+          { "value": 0, "text": "Все" },
+          { "value": 1, "text": "Lorem, ipsum dolor." },
+          { "value": 2, "text": "Totam, quia illo." }
         ]
       },
       "label": "Название организации",
@@ -91,7 +91,6 @@
       "filterOptions": {
         "enabled": true,
         "multiple": true,
-        "customFilter": true,
         "placeholder": " ",
         "filterDropdownItems": [
           { "value": 0, "text": "Все" },
