@@ -46,8 +46,12 @@
       "field": "nkoTitle",
       "filterOptions": {
         "enabled": true,
+        "customFilter": true,
         "placeholder": " ",
-        "filterDropdownItems": []
+        "filterDropdownItems": [
+          { "value": 0, "label": "Lorem, ipsum dolor." },
+          { "value": 1, "label": "Totam, quia illo." }
+        ]
       },
       "label": "Название организации",
       "typeDef": {}
@@ -86,8 +90,8 @@
       "field": "status",
       "filterOptions": {
         "enabled": true,
+        "multiple": true,
         "customFilter": true,
-        "formatValue": "this.formatFilterValue",
         "placeholder": " ",
         "filterDropdownItems": [
           { "value": 0, "label": "Все" },
@@ -126,7 +130,7 @@
       "showExpertisePeriodExpired": false,
       "claimNumber": "2021-0005",
       "contest": "2 Culpa.",
-      "nkoTitle": "Rerum, labore veritatis!",
+      "nkoTitle": "Lorem, ipsum dolor.",
       "projectName": "Quasi sequi provident tempore harum.",
       "nomination": "Iste, amet.",
       "requestedFunds": "1 087 314,00 р.",
@@ -198,7 +202,7 @@
       "showExpertisePeriodExpired": false,
       "claimNumber": "2021-0005",
       "contest": "8 Dignissimos.",
-      "nkoTitle": "Ullam, corrupti ipsum.",
+      "nkoTitle": "orem, ipsum dolor.",
       "projectName": "Repudiandae veniam placeat velit ab.",
       "nomination": "Incidunt, assumenda?",
       "requestedFunds": "1 343 121,00 р.",
@@ -282,7 +286,7 @@
       "showExpertisePeriodExpired": false,
       "claimNumber": "2021-0005",
       "contest": "15Neque!",
-      "nkoTitle": "Neque, itaque ratione!",
+      "nkoTitle": "Totam, quia illo",
       "projectName": " Repudiandae tempore unde quibusdam sit?",
       "nomination": "Sint, soluta!",
       "requestedFunds": "2 565 661,00 р.",
@@ -294,7 +298,7 @@
       "showExpertisePeriodExpired": false,
       "claimNumber": "2021-0005",
       "contest": "16Laborum.",
-      "nkoTitle": "Sit, ut amet.",
+      "nkoTitle": "Lorem, ipsum dolor.",
       "projectName": " Eius ducimus corrupti sed fuga.",
       "nomination": "Tenetur, nobis?",
       "requestedFunds": "1 998 635,00 р.",
@@ -318,7 +322,7 @@
       "showExpertisePeriodExpired": false,
       "claimNumber": "2021-0005",
       "contest": "18Amet!",
-      "nkoTitle": "Assumenda, doloremque amet.",
+      "nkoTitle": "Totam, quia illo",
       "projectName": " Quam ex distinctio totam nihil.",
       "nomination": "Deleniti, non.",
       "requestedFunds": "2 530 298,00 р.",
