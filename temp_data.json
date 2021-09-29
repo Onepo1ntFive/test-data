@@ -35,7 +35,8 @@
     {
       "field": "expertiseFinishDate",
       "filterOptions": {
-        "enabled": false,
+        "date": true,
+        "enabled": true,
         "placeholder": " ",
         "filterDropdownItems": []
       },
