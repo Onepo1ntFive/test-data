@@ -15,7 +15,7 @@
     {
       "field": "claimNumber",
       "filterOptions": {
-        "enabled": true,
+        "enabled": false,
         "placeholder": " ",
         "filterDropdownItems": []
       },
