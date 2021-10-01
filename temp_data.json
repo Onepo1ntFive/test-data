@@ -14,7 +14,8 @@
     },
     {
       "field": "claimNumber",
-      "width": "10px",
+      "width": "60px",
+      "sortable": false,
       "filterOptions": {
         "enabled": false,
         "placeholder": " ",
