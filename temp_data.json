@@ -14,12 +14,13 @@
     },
     {
       "field": "claimNumber",
+      "width": "10px",
       "filterOptions": {
         "enabled": false,
         "placeholder": " ",
         "filterDropdownItems": []
       },
-      "label": "Рег. №",
+      "label": "№ п/п",
       "typeDef": {}
     },
     {
