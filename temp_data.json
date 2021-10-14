@@ -50,6 +50,7 @@
       "filterOptions": {
         "enabled": true,
         "customFilter": true,
+        "multiple": true,
         "placeholder": " ",
         "filterDropdownItems": [
           { "value": 0, "text": "Все" },
