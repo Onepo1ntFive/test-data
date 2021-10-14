@@ -128,7 +128,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -141,7 +141,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -154,7 +154,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -167,7 +167,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -180,7 +180,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -193,7 +193,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -206,7 +206,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -219,7 +219,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -232,7 +232,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -245,7 +245,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -258,7 +258,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -271,7 +271,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -284,7 +284,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -297,7 +297,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -310,7 +310,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -323,7 +323,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -336,7 +336,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -349,7 +349,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -362,7 +362,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -375,7 +375,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -388,7 +388,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -401,7 +401,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -414,7 +414,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -427,7 +427,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -440,7 +440,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -453,7 +453,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -466,7 +466,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -479,7 +479,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -492,7 +492,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -505,7 +505,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -518,7 +518,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -531,7 +531,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -544,7 +544,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -557,7 +557,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -570,7 +570,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -583,7 +583,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -596,7 +596,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -609,7 +609,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -622,7 +622,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -635,7 +635,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -648,7 +648,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -661,7 +661,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -674,7 +674,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -687,7 +687,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -700,7 +700,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -713,7 +713,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -726,7 +726,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -739,7 +739,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -752,7 +752,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -765,7 +765,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -778,7 +778,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -791,7 +791,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -804,7 +804,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -817,7 +817,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -830,7 +830,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -843,7 +843,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -856,7 +856,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -869,7 +869,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -882,7 +882,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -895,7 +895,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -908,7 +908,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -921,7 +921,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -934,7 +934,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -947,7 +947,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -960,7 +960,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -973,7 +973,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -986,7 +986,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -999,7 +999,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -1012,7 +1012,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -1025,7 +1025,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -1038,7 +1038,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -1051,7 +1051,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -1064,7 +1064,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -1077,7 +1077,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -1090,7 +1090,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -1103,7 +1103,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -1116,7 +1116,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -1129,7 +1129,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -1142,7 +1142,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -1155,7 +1155,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -1168,7 +1168,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -1181,7 +1181,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -1194,7 +1194,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -1207,7 +1207,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -1220,7 +1220,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -1233,7 +1233,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -1246,7 +1246,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -1259,7 +1259,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -1272,7 +1272,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -1285,7 +1285,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -1298,7 +1298,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -1311,7 +1311,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -1324,7 +1324,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -1337,7 +1337,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -1350,7 +1350,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -1363,7 +1363,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -1376,7 +1376,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -1389,7 +1389,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -1402,7 +1402,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -1415,7 +1415,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -1428,7 +1428,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -1441,7 +1441,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -1454,7 +1454,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -1467,7 +1467,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -1480,7 +1480,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -1493,7 +1493,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -1506,7 +1506,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -1519,7 +1519,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -1532,7 +1532,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -1545,7 +1545,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -1558,7 +1558,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -1571,7 +1571,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -1584,7 +1584,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -1597,7 +1597,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -1610,7 +1610,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -1623,7 +1623,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -1636,7 +1636,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -1649,7 +1649,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -1662,7 +1662,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -1675,7 +1675,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -1688,7 +1688,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -1701,7 +1701,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -1714,7 +1714,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -1727,7 +1727,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -1740,7 +1740,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -1753,7 +1753,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -1766,7 +1766,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -1779,7 +1779,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -1792,7 +1792,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -1805,7 +1805,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -1818,7 +1818,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -1831,7 +1831,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -1844,7 +1844,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -1857,7 +1857,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -1870,7 +1870,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -1883,7 +1883,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -1896,7 +1896,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -1909,7 +1909,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -1922,7 +1922,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -1935,7 +1935,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -1948,7 +1948,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -1961,7 +1961,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -1974,7 +1974,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -1987,7 +1987,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -2000,7 +2000,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -2013,7 +2013,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -2026,7 +2026,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -2039,7 +2039,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -2052,7 +2052,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -2065,7 +2065,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -2078,7 +2078,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -2091,7 +2091,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -2104,7 +2104,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -2117,7 +2117,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -2130,7 +2130,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -2143,7 +2143,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -2156,7 +2156,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -2169,7 +2169,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -2182,7 +2182,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -2195,7 +2195,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -2208,7 +2208,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -2221,7 +2221,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -2234,7 +2234,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -2247,7 +2247,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -2260,7 +2260,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -2273,7 +2273,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -2286,7 +2286,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -2299,7 +2299,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -2312,7 +2312,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -2325,7 +2325,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -2338,7 +2338,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -2351,7 +2351,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -2364,7 +2364,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -2377,7 +2377,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -2390,7 +2390,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -2403,7 +2403,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -2416,7 +2416,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -2429,7 +2429,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -2442,7 +2442,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -2455,7 +2455,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -2468,7 +2468,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -2481,7 +2481,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -2494,7 +2494,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -2507,7 +2507,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -2520,7 +2520,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -2533,7 +2533,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -2546,7 +2546,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -2559,7 +2559,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -2572,7 +2572,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -2585,7 +2585,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -2598,7 +2598,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -2611,7 +2611,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -2624,7 +2624,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -2637,7 +2637,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -2650,7 +2650,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -2663,7 +2663,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -2676,7 +2676,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -2689,7 +2689,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -2702,7 +2702,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -2715,7 +2715,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -2728,7 +2728,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -2741,7 +2741,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -2754,7 +2754,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -2767,7 +2767,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -2780,7 +2780,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -2793,7 +2793,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -2806,7 +2806,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -2819,7 +2819,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -2832,7 +2832,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -2845,7 +2845,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -2858,7 +2858,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -2871,7 +2871,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -2884,7 +2884,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -2897,7 +2897,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -2910,7 +2910,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -2923,7 +2923,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774,
@@ -2936,7 +2936,7 @@
       "expertOpinionStatus": "ok",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "04.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1773,
@@ -2949,7 +2949,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1772,
@@ -2962,7 +2962,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1771,
@@ -2975,7 +2975,7 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 1774123123,
@@ -2988,7 +2988,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отклонена",
       "expertiseFinishDate": "17.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 121412774,
@@ -3001,7 +3001,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "18.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 14124,
@@ -3014,7 +3014,7 @@
       "expertOpinionStatus": "ok",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "19.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 231532,
@@ -3027,7 +3027,7 @@
       "expertOpinionStatus": "edit",
       "status": "Проходит экспертизу",
       "expertiseFinishDate": "22.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 645643,
@@ -3040,7 +3040,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Экспертиза завершена",
       "expertiseFinishDate": "23.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4564356,
@@ -3053,7 +3053,7 @@
       "expertOpinionStatus": "ok",
       "status": "Победитель",
       "expertiseFinishDate": "25.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4573457,
@@ -3066,7 +3066,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отказ от Гранта",
       "expertiseFinishDate": "29.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 43574537,
@@ -3079,7 +3079,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Подготовка заявки",
       "expertiseFinishDate": "30.11.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 4357457,
@@ -3092,7 +3092,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "02.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 3457457,
@@ -3105,7 +3105,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "06.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 54772457,
@@ -3118,7 +3118,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "16.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 745754,
@@ -3131,7 +3131,7 @@
       "expertOpinionStatus": "ok",
       "status": "Отклонена",
       "expertiseFinishDate": "17.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 23457457,
@@ -3144,7 +3144,7 @@
       "expertOpinionStatus": "edit",
       "status": "Готова к экспертизе",
       "expertiseFinishDate": "22.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     },
     {
       "claimId": 345745745745,
@@ -3157,7 +3157,7 @@
       "expertOpinionStatus": "cancel",
       "status": "Назначены основные эксперты",
       "expertiseFinishDate": "31.12.2021",
-      "btn": "Просмотр",
+      "btn": "Просмотр"
     }
   ],
   "total_records": 234,
