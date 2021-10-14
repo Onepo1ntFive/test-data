@@ -108,6 +108,7 @@
     },
     {
       "field": "btn",
+      "sortable": false,
       "filterOptions": {
         "enabled": false,
         "placeholder": " ",
