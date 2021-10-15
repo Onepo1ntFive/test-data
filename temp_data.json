@@ -142,7 +142,7 @@
       "expertOpinionStatus": "edit",
       "status": "Отправлена на проверку",
       "expertiseFinishDate": "08.11.2021",
-      "btn": "Просмотр"
+      "btn": "В работу"
     },
     {
       "claimId": 1772,
@@ -155,7 +155,8 @@
       "expertOpinionStatus": "cancel",
       "status": "Отправлена на доработку",
       "expertiseFinishDate": "10.11.2021",
-      "btn": "Просмотр"
+      "btn": "Проверить",
+      "btnType": "edit"
     },
     {
       "claimId": 1771,
@@ -168,7 +169,8 @@
       "expertOpinionStatus": "ok",
       "status": "Повторная проверка после доработки",
       "expertiseFinishDate": "15.11.2021",
-      "btn": "Просмотр"
+      "btn": "Просмотр",
+      "btnType": "eye"
     },
     {
       "claimId": 1774123123,
