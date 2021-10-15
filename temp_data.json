@@ -201,6 +201,7 @@
     {
       "claimId": 14124,
       "showExpertisePeriodExpired": false,
+      "backToEdit": true,
       "claimNumber": "7",
       "contest": "7 Voluptas?",
       "nkoTitle": "Accusantium, quos et.",
